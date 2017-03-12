@@ -1,2 +1,1 @@
-echo 'rrrrr'
-ls
+cd gamal
