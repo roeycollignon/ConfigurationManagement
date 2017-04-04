@@ -1,1 +1,1 @@
-sudo mkdir Tai
+sudo mkdir /Tai
