@@ -1,2 +1,2 @@
 date
-echo %1
+echo $aaa
